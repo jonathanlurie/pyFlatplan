@@ -58,7 +58,7 @@ def main():
 
     cmd = "montage -background '"+ background_color + "' " + image_list_string + " -tile " + str(nb_columns) + "x -geometry " + "x" + str(thumb_size) + "+" + str(int(thumb_size/10)) + "+" + str(int(thumb_size/10)) + " " + output_file
 
-    print("Flatplan inprogress...")
+    print("Building the flatplan...")
 
     os.system(cmd)
 
