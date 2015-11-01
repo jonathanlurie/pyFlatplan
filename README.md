@@ -2,13 +2,13 @@
 
 ## What is a flatplan?
 
-A flatplan is a layout quicklook for a book, a magazine or any kind of printed publication. It aims at showing all the pages at once in order to give a more global aspect of the document. Then, the publisher evaluate the design.
+A flatplan is a layout quicklook for a book, a magazine or any kind of printed publication. It aims at showing all the pages at once in order to give a more global insight of the document. Then, the publisher evaluates easily his design.
 
 ![](https://www.dropbox.com/s/qppk663um1q6hih/flatplan.jpg?dl=0&raw=1)  
 
 ## How does pyFlatplan work?
 
-It is a command line software so it has to run into a terminal. Then, it take some arguments:
+It is a command line software, thus it has to run from a terminal. Then, it takes some arguments:
 
 
 | Argument      | Expected value                        | Mandatory or Optional  | Default value   | Example                   |
