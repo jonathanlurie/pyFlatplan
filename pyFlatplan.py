@@ -5,7 +5,7 @@ Author      : Jonathan Lurie
 Email       : lurie.jo@gmail.com
 Version     : 0.1
 Licence     : MIT
-Github      :
+Github      : https://github.com/jonathanlurie/pyFlatplan
 description : Build a flatplan from page images, just like a mosaic.
               Could be useful when exporting jpg pages from Adobe InDesign.
               Imagemagick is required to use pyFlatplan. It can be downloaded at www.imagemagick.org
