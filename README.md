@@ -28,12 +28,19 @@ Internally, the mosaic is made with ImageMagick, an open source software you nee
 
 In a terminal:
 
-```
+```shell
 cd /whereYouPutIt/pyFlatplan/
 ./pyFlatplan.py -input /myFolderFullOfImages/picture_*.jpg
 ```
 
-
+To make it easier, you could add an alias to your `.bashrc` file:  
+```shell
+alias flatplan='python /whereYouPutIt/pyFlatplan//pyFlatplan.py'
+```
+and then, you just have to call :
+```shell
+flatplan -input /myFolderFullOfImages/picture_*.jpg
+```
 
 
 
