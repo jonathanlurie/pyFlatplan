@@ -4,7 +4,7 @@
 
 A flatplan is a layout quicklook for a book, a magazine or any kind of printed publication. It aims at showing all the pages at once in order to give a more global insight of the document. Then, the publisher evaluates easily his design.
 
-![](https://www.dropbox.com/s/qppk663um1q6hih/flatplan.jpg?dl=0&raw=1)  
+![](https://www.dropbox.com/s/q73xpksbgrybtm7/flatplan2.jpg?dl=0&raw=1)  
 
 ## How does pyFlatplan work?
 
